@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html,body {
+    width: 90%;
+    margin: 20px auto;
+}
+
+#container {
+    border-left: 2px solid black;
+    padding: 20px;
+}
+
+#text-area {
+    margin-top: 10px;
+    
+}
+
+.input-form {
+    margin-bottom: 10px;
+}
+
+.input-form input {
+    height: 20px;
+}
